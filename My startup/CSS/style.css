@@ -1,0 +1,48 @@
+@import url('<link href="https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap" rel="stylesheet">');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body { 
+	background-color: #B1D690;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+
+}
+
+h1, h2, h3 { 
+	font-family: 'Poppins', sans-serif;
+	font-weight : bold;
+	margin: 10px;
+}
+
+h1 {
+	color: #FFA24C;
+	font-size: 60px;
+	font-weight: 700;
+	letter-spacing: 5px;
+}
+
+h2 {
+	color: white;
+	font-size: 20px;
+	font-weight: 	400;
+	font-weight: bold;
+}
+
+
+a {
+	font-family: 'Raleway', sans-serif;
+	text-decoration: underline;
+	color: #FEEC37;
+	font-weight: 500;
+	font-size: 15px;
+}
+ç!l
+a:hover {
+	color: white;
+}
